@@ -7,8 +7,8 @@ let subtracao = primeiroNumero - segundoNumero;
 let multiplicacao = primeiroNumero * segundoNumero;
 let divisao = primeiroNumero / segundoNumero;
 
-primeiroNumero = prompt("Digite o primeiro número:");
-segundoNumero = prompt("Digite o segundo número:");
+//primeiroNumero = prompt("Digite o primeiro número:");
+//segundoNumero = prompt("Digite o segundo número:");
 
 console.log(`A soma do ${primeiroNumero} e ${segundoNumero} é: ${soma}`);
 console.log(`A subtração do ${primeiroNumero} e ${segundoNumero} é: ${subtracao}`);
